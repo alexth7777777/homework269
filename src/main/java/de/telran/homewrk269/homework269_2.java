@@ -17,6 +17,6 @@ public class homework269_2 {
             System.out.println("Short:" + Short);
             System.out.println("Float:" + Float);
             System.out.println("Double:" + Double);
-            System.out.println("Long" + Long);
+            System.out.println("Long:" + Long);
     }
 }
