@@ -1,4 +1,4 @@
-package de.telran.homewrk269;
+package de.telran.homework269;
 
 public class task269 {
     public static void main(String[] args) {
@@ -10,6 +10,7 @@ public class task269 {
         System.out.println("hundreds:" + hundreds );
         System.out.println("Tens:" + tens);
         System.out.println("Units:" + units);
+        System.out.print("Число 345 -> " +hundreds+"," +tens+","+units );
 
     }
 }
