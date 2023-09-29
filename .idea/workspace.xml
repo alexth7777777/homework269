@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be473c32-4dd6-4331-be66-e2f8a20796ea" name="Changes" comment="ffWorld">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/home289/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson3/valueView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson4/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson4/TestObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/homewrk269/homework269_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/homework269/homework269_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/homewrk269/task269.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/homework269/task269.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/home289/task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +37,7 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task269">
+  <component name="RunManager" selected="Application.task2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.Main" />
       <module name="untitled269" />
@@ -86,6 +77,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.home289.task2" />
+      <module name="untitled269" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.home289.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="task269" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.homework269.task269" />
       <module name="untitled269" />
@@ -101,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task2" />
         <item itemvalue="Application.task269" />
         <item itemvalue="Application.task1" />
         <item itemvalue="Application.homework269_2" />
@@ -125,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695806935801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ffWorld">
+      <option name="closed" value="true" />
+      <created>1695934620060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695934620060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ffWorld">
+      <option name="closed" value="true" />
+      <created>1695934843835</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695934843835</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
