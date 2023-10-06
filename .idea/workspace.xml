@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be473c32-4dd6-4331-be66-e2f8a20796ea" name="Changes" comment="FWorld">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/homework10_03/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson7/ConstructorSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson8/ExchangeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson8/GrandConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson8/RandomStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson8/convertorSimple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,20 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task2">
+  <component name="RunManager" selected="Application.ExchangeNumber">
+    <configuration name="ExchangeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.lesson8.ExchangeNumber" />
+      <module name="untitled269" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MethodSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.lesson6.MethodSimple" />
       <module name="untitled269" />
@@ -92,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task269" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.homework269.task269" />
-      <module name="untitled269" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.telran.homework269.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExchangeNumber" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.MethodSimple" />
         <item itemvalue="Application.task2" />
-        <item itemvalue="Application.task269" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696367387737</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="FWorld">
+      <option name="closed" value="true" />
+      <created>1696451032058</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696451032058</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
